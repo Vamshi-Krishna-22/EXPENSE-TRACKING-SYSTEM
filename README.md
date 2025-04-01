@@ -42,4 +42,7 @@ This project is an **expense management system** that consists of a **Streamlit 
     streamlit run frontend/app.py
    ```
    
+**DEMO VIDEO**
+🎥 [Watch Demo](https://github.com/Vamshi-Krishna-22/EXPENSE-TRACKING-SYSTEM/blob/main/demo%20video.mp4)
 
+YOU CAN WATCH THE DEMO FOR BETTER UNDERSTANDING
