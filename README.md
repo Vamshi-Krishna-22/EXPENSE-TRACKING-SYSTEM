@@ -4,9 +4,13 @@ This project is an **expense management system** that consists of a **Streamlit 
 
 ## <span style = "color: maroon">Key features</span>
 - **Add and Update expenses**
+  ![](https://github.com/Vamshi-Krishna-22/EXPENSE-TRACKING-SYSTEM/blob/main/ADD%20AND%20UPDATE%20TAB.png)
 - **Analytics by Category from selected date to selected date**
+  ![](https://github.com/Vamshi-Krishna-22/EXPENSE-TRACKING-SYSTEM/blob/main/categroy%20wise%20analytics.png)
 - **Analytics by Months**
+  ![](https://github.com/Vamshi-Krishna-22/EXPENSE-TRACKING-SYSTEM/blob/main/monthly%20analytics.png)
 - **Monthly and category wise analytics**
+- ![](https://github.com/Vamshi-Krishna-22/EXPENSE-TRACKING-SYSTEM/blob/main/monthly%20category%20wise%20analytics.png)
 
 
 ## <span style = "color: maroon"> Project Structure </span>
@@ -38,3 +42,4 @@ This project is an **expense management system** that consists of a **Streamlit 
     streamlit run frontend/app.py
    ```
    
+
